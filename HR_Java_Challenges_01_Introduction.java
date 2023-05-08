@@ -1,4 +1,4 @@
-// HackerRank - Java - Challenges - I - Introduction
+/* HackerRank - Java - Challenges - I - Introduction */
 
 
 /* 1. Introduction - Welcome to Java! */
