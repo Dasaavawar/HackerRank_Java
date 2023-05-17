@@ -1,4 +1,4 @@
-/* HackerRank - Java - Challenges - II - Strings */
+/* HackerRank - Java - Challenges - II - Strings - Java 8 */
 
 
 /* 1. Strings - Java Strings Introduction */
