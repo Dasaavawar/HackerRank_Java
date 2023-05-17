@@ -1,4 +1,4 @@
-/* HackerRank - Java - Challenges - V - Exception Handling - Java 8 */
+/* HackerRank - Java - Challenges - VI - Exception Handling - Java 8 */
 
 
 /* 1. Exception Handling - Java Exception Handling */
