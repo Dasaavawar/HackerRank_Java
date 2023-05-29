@@ -1276,7 +1276,7 @@ public class Solution {
 /*
 In computer science, a priority queue is an abstract data type which is like a regular queue, but where additionally each element has a "priority" associated with it. In a priority queue, an element with high priority is served before an element with low priority. - Wikipedia (https://en.wikipedia.org/wiki/Priority_queue)
 
-In this problem we will test your knowledge on Java Priority Queue ().
+In this problem we will test your knowledge on Java Priority Queue (https://docs.oracle.com/javase/7/docs/api/java/util/PriorityQueue.html).
 
 There are a number of students in a school who wait to be served. Two types of events, ENTER and SERVED, can take place which are described below.
 
@@ -1444,5 +1444,4 @@ public class Solution {
         }
     }
 }
-
 
